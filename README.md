@@ -1,2 +1,7 @@
-# template-project
-项目模板
+# linear-algebra-its-applications
+线性代数对于算法工程师十分重要，因而学好线性代数十分重要。
+本项目主要基于《线性代数及其应用_第四版》进行学习，当然还包括其他丰富的网络资料。
+不求一次恶补学会，但求每次用到的时候都学会一点。
+## 参考资料
+[1] 线性代数及其应用_第四版
+[2] [【熟肉】线性代数的本质 - 00 - “线性代数的本质”系列预览](https://www.bilibili.com/video/BV1rs411k7ru/?spm_id_from=333.788.videocard.12)
