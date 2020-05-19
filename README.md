@@ -4,4 +4,4 @@
 不求一次恶补学会，但求每次用到的时候都学会一点。
 ## 参考资料
 [1] 线性代数及其应用_第四版
-[2] [【熟肉】线性代数的本质 - 00 - “线性代数的本质”系列预览](https://www.bilibili.com/video/BV1rs411k7ru/?spm_id_from=333.788.videocard.12)
+[2] [【官方双语/合集】线性代数的本质 - 系列合集](https://www.bilibili.com/video/BV1ys411472E)
